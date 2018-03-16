@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="nav_doce" type="drawable">@drawable/cupcake_criar</item>
+    <item name="nav_reservar" type="drawable">@drawable/cupcake_carta</item>
+    <item name="nav_mc" type="drawable">@drawable/cupcakes</item>
+    <item name="nav_cad" type="drawable">@drawable/ic_menu_manage</item>
+    <item name="nav_home" type="drawable">@drawable/home</item>
+    <item name="nav_sair" type="drawable">@drawable/port</item>
+</resources>
